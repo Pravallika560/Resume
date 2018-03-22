@@ -1,0 +1,49 @@
+{
+"career":{
+"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+},
+"education":[
+  {
+    "degree":"S.S.C",
+    "institution":"Sri Lakshmi High School",
+    "data":["2013","92%"]
+  },
+  {
+    "degree":"Inter/Diploma",
+    "institution":"Sri Chaitanya Junior College",
+    "data":["2013-15","95%"]
+  },
+  {
+    "degree":"Btech(CSE)",
+    "institution":"G.Pullaiah College of Engineering  and Technology",
+    "data":["2015-19","75%"]
+  }
+],
+"skills":[
+  {
+    "name":"Languages",
+    "info":["C","Java","C#","R","Python","PHP"]
+  },
+  {
+    "name":"Operating system",
+    "info":["win-10","Fedora","redHat","Ubuntu"]
+  },
+  {
+    "name":"Data Bases",
+    "info":["Mysql","MongoDB","Oracle","PDO"]
+  },
+  {
+    "name":"Web Technologies",
+    "info":["HTML","CSS","JavaScript"]
+  },
+  {
+    "name":"Frame works",
+    "info":[".Net","Bootstrap","CodeIgniter"]
+  },
+  {
+    "name":"Libraries",
+    "info":["Jquery"]
+  }
+]
+
+}
